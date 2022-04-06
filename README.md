@@ -1,0 +1,2 @@
+# FabricGeneralChainCode
+对于Fabric的简单增删改查的通用链码，不同于官方示例的数据插入方式
